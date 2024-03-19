@@ -1,0 +1,4 @@
+pwd --print working directory
+    displays ur current directory location
+
+cd [loc] --change
