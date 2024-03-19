@@ -2,3 +2,7 @@ pwd --print working directory
     displays ur current directory location
 
 cd [loc] --change
+
+git push 
+	- uploading files/folders from local repo to remote repo
+g
